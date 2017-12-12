@@ -15,7 +15,13 @@ Work with:
 ## Install
 
 ```bash
-$ yarn add eslint eslint-config-fireyy -D
+$ yarn add eslint eslint-config-xo eslint-config-fireyy -D
+```
+
+or
+
+```bash
+$ yarn add xo eslint-config-fireyy -D
 ```
 
 ## Usage
