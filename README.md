@@ -1,14 +1,15 @@
 # ESLint config for fireyy
 
-This config is supposed to work with:
+Work with:
 
+- [eslint](https://eslint.org) and [eslint-config-xo](https://github.com/sindresorhus/eslint-config-xo).
 - [XO](https://github.com/sindresorhus/xo)
-- [eslint-config-xo](https://github.com/sindresorhus/eslint-config-xo).
 
 ## Features
 
-- Indent with 2 spaces and no semicolon
-- [Prettier](#use-prettier)
+- Indent with 2 spaces
+- no semicolon
+- [Prettier Code](#use-prettier)
 - [Lint code blocks in Markdown](#lint-code-blocks-in-markdown)
 
 ## Install
